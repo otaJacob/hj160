@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pagina Web Simples com Menu</title>
+<link rel="stylesheet" href="ex_Padding.css">
+</head>
+<body>
+<header>
+<h4>Hello world!</h4>
+</header>
+<section>
+<h3>0 padding diferente nesta linha.</h3>
+</section>
+<footer>
+<p><em>Aqui est o rodape</em></p>
+</footer>
+</body>
+</html>
